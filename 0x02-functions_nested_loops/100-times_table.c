@@ -6,6 +6,7 @@
  *
  * Return: Number matrix
  */
+int main(){
 void print_times_table(int n)
 {
 	int x, y, z;
@@ -48,4 +49,5 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
+}
 }
