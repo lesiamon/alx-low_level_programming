@@ -1,5 +1,4 @@
-#include "Holberton.h"
-#include "main.h"
+#include "holberton.h"
 /**
  * main - Entry point
  * Description: prints 'Holberton \n'
