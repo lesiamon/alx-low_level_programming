@@ -1,3 +1,4 @@
+#include "main.h"
 /*
  * File: 1-print_binary.c
  * Auth: Brennan D Baraban
