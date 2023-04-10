@@ -1,5 +1,5 @@
 #include "main.h"
-unsigned int flip_bits(unsigned long int p, unsigned long int k)
+unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
 	unsigned long int xor = n ^ m, bits = 0;
 
